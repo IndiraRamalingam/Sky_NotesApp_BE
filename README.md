@@ -6,4 +6,4 @@ Netlify Deployed URL --> https://indira-sky-notes.netlify.app
 
 Render Deployed URL --> https://sky-notes-be.onrender.com
 
-Front-end Source Code in GitHub --> https://github.com/IndiraRamalingam/To_Do_Frontend
+Front-end Source Code in GitHub --> https://github.com/IndiraRamalingam/Sky_NotesApp_FE
